@@ -1,0 +1,6 @@
+Name: Lakshman Kumar
+Email: lakshman@gmail.com
+Phone: 9876543210
+Education: BSc Computer Science
+Skills: Python, HTML, C++
+Project: Accident Detection System
